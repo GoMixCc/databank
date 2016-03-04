@@ -6,3 +6,9 @@
 * [Angaroa的实现](https://github.com/chrisnc/tangaroa) 
 * [Juno](https://github.com/blockchain-university/juno) : Hyperledger的原型Juno
 * [BigchainDB: A Scalable Blockchain Database(DRAFT)](http://github.com/blockchain-university/paper/blob/master/bigchaindb-whitepaper.pdf)
+* [Rootstock white paper](./RootstockWhitePaperv8-Overview.pdf)
+* [Lightning-newwork paper](./lightning-network-paper.pdf)
+* [Cryptonote white paper](./cryptonote_whitepaper.pdf)
+* [IOTA white paper(Tangle/DAG)](./tangle.pdf)
+* [普林斯顿大学的比特币教程](./princeton_bitcoin_book.pdf)
+* [以太坊黄皮书](./ethereum_yellow_paper.pdf)
