@@ -40,7 +40,7 @@
 * [How to write a bit torrent client](http://www.kristenwidman.com/blog/33/how-to-write-a-bittorrent-client-part-1/)
 * [A simple Distributed Hash Table (DHT)](https://rezahok.wordpress.com/2009/09/21/a-simple-distributed-hash-table-dht/)
 * [Tempering Kademlia with a Robust Identity Based System](http://www.lajello.com/papers/p2p08.pdf)
-* [TrustedKad –Application of Trust MechanismstoaKademlia-BasedPeer-to-Peer Network](https://duepublico.uni-duisburg-essen.de/servlets/DerivateServlet/Derivate-37616/Dissertation_Kohnen.pdf)
+* [TrustedKad – Application of Trust MechanismstoaKademlia-BasedPeer-to-Peer Network](https://duepublico.uni-duisburg-essen.de/servlets/DerivateServlet/Derivate-37616/Dissertation_Kohnen.pdf)
 * [S/Kademlia: A Practicable Approach Towards Secure Key-Based Routing](http://www.tm.uka.de/doc/SKademlia_2007.pdf): 基于加密学生成随机的nodeid以保证系统免受攻击
 * [Kademlia](https://zh.wikipedia.org/wiki/Kademlia)
 * [DemocratizingcontentpublicationwithCoral](https://www.coralcdn.org/docs/coral-nsdi04.pdf)
