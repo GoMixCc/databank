@@ -38,6 +38,7 @@
 * STUN（Simple Traversal of User Datagram Protocol through Network Address Translators (NATs), RFC 5389
 * STUN/TURN/ICE
 * DHT(分布式哈希表)
+* webrtc
 
 ## 加密学
 * 非对称加密学
@@ -62,7 +63,7 @@
 ## 数学
 * 概率论
 * 建模
-* 
+* 非欧几何，椭圆曲线，质因数分解
 
 ## 经济学
 * 通货膨胀产生的原因，现象

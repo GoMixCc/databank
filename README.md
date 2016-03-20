@@ -32,6 +32,8 @@
 * [Emercoin](https://github.com/EvgenijM86/emercoin/): 采用STUN协议来实现P2P网络，可以与webrtc兼容 。 [代码](https://github.com/EvgenijM86/emercoin/), POW + POS , fork from [ppcoin](https://github.com/ppcoin/ppcoin)
 * [openchain](https://www.openchain.org/) : client-server架构的chain，ibm贡献的代码，c#开发，适合企业内部使用
 * [GitTorrent](https://github.com/conseweb/GitTorrent): 一个使用bittorrent + bitcoin构建的去中心化的github. [Blog](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
+* [RSCoin code](https://github.com/RSCoin/RSCoin): 英国央行的数字货币，基于莱特币
+* [Codius repo](https://github.com/codius/codius): Codius Smart Oracle system, 智能合约
 
 ## 相关文章
 * [精通比特币](http://www.zhibimo.com/read/wang-miao/mastering-bitcoin/index.html)
@@ -47,11 +49,16 @@
 * [Decentralized Reddit using a DHT to store content and a blockchain to rank it](https://news.ycombinator.com/item?id=10391996) : Many other ideas about blockchains. 
 * [PolderCast: Fast, Robust, and ScalableArchitecture for P2P Topic-based Pub/Sub](http://acropolis.cs.vu.nl/~spyros/www/papers/PolderCast.pdf)
 * [Bitcoin-NG: A Scalable Blockchain Protocol](http://arxiv.org/pdf/1510.02037.pdf)
+* [Bitcoin-NG 可扩展的区块链协议](http://www.8btc.com/bitcoin-ng-2)
 * [LINKABLE RING SIGNATURES OVER ELLIPTIC CURVES](https://jesper.borgstrup.dk/2014/04/linkable-ring-signatures-over-elliptic-curves/)
 * [Ring signature implementation with python](http://everything.explained.today/Ring_signature/)
+* [Python implementation of Linkable Ring Signatures over Elliptic curves](https://gist.github.com/xbee/8a37bcfd80ef727cc3f0)
 * [Bitcoin in Bloom: How IBLTs Allow Bitcoin to Scale: 使用IBLTs来增强比特币的可扩展性](https://www.cryptocoinsnews.com/bitcoin-in-bloom-how-iblts-allow-bitcoin-scale/)
 * [使用IBLT来减少区块的传播速度](https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2)
 * [BitGit](http://luke.dashjr.org/programs/bitcoin/) ： 相关开源项目的汇集
+* [Secret Sharing and Erasure Coding: A Guide for the Aspiring Dropbox DecentralizerIntroduction](https://blog.ethereum.org/2014/08/16/secret-sharing-erasure-coding-guide-aspiring-dropbox-decentralizer/)
+* [Ultimate blockchain compression w/ trust-free lite nodes](https://bitcointalk.org/index.php?topic=88208.0)
+* [Python implementation of Linkable Ring Signatures over Elliptic curves](https://gist.github.com/xbee/8a37bcfd80ef727cc3f0)
 
 ## 比特币、区块链相关可参考的项目
 * [比特币协议说明](https://zh-cn.bitcoin.it/wiki/%E5%8D%8F%E8%AE%AE%E8%AF%B4%E6%98%8E)
@@ -93,4 +100,36 @@
 * [abstract-common-wallet](https://github.com/blockai/abstract-common-wallet): 钱包通用服务接口
 * [my-two-bits](https://github.com/blockai/my-two-bits)：付费评论系统
 * [Blockai](https://www.blockai.com) : 一种数字内容发布、管理平台，似乎可以用来对盗版影视剧的解决
+* [FileCoin](http://filecoin.io/)
+* [Lisk](https://lisk.io/): [github](https://github.com/LiskHQ/lisk), Lisk decentralized application platform and crypto-currency
+* [Boolberry](http://boolberry.org/): 更强隐私性
+* [Pebblecoin (XPB) - FIRST DPOS CRYPTONOTE COIN](https://bitcointalk.org/index.php?topic=909624.0): [github](https://github.com/xpbcreator/pebblecoin/)
 
+# 算法、理论
+
+## Consensus Algorithm
+* [Raft](https://raft.github.io/)
+* [RaftScope](https://github.com/ongardie/raftscope)
+* [分布式系统的Raft算法](http://www.jdon.com/artichect/raft.html)
+* [Raft一致性算法](http://blog.csdn.net/cszhouwei/article/details/38374603)
+
+## 随机数生成
+* [Shamir's Secret Sharing Scheme](http://point-at-infinity.org/ssss/)
+
+## Confidential Transactions
+* [Confidential Transactions, Content privacy for Bitcoin transactions](https://bitcointalk.org/index.php?topic=1085273.0)
+* [Blockstream's Austin Hill: confidential blockchains can remove systemic risk from finance](http://www.ibtimes.co.uk/blockstreams-austin-hill-confidential-blockchains-can-remove-systemic-risk-finance-1529333)
+* [What are Confidential Transactions](https://www.weusecoins.com/adam-back-confidential-transactions/)
+* [Confidential Transactions](https://people.xiph.org/~greg/confidential_values.txt)
+* [The first successful Zero-Knowledge Contingent Payment](https://bitcoincore.org/en/2016/02/26/zero-knowledge-contingent-payments-announcement/)
+* [PayPub: Trustless payments for information publishing on Bitcoin](https://github.com/unsystem/paypub)
+* [比特币网络中第一笔零知识证明交易发送成功](http://blockchain.hk/zero-knowledge-contingent-payments-announcement/)
+
+
+## LevelDB
+* [LevelDB性能分析和表现](http://database.51cto.com/art/201106/267852.htm)
+* [What are the keys used in the blockchain levelDB (ie what are the key:value pairs)?](http://bitcoin.stackexchange.com/questions/28168/what-are-the-keys-used-in-the-blockchain-leveldb-ie-what-are-the-keyvalue-pair)
+
+## Trie
+* [Understanding the ethereum trie](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/)
+* [Patricia Tree](https://github.com/ethereum/wiki/wiki/Patricia-Tree)
