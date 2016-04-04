@@ -28,7 +28,7 @@
 * [BlackCoin](http://blackcoin.co/): POS2.0, 3.0, [CodeBase](https://github.com/rat4/blackcoin)
 * [BlackHalo](http://blackhalo.info/) : Smart Contract, The first of its kind to support two-party contracts, Joint Accounts & More! 
 * [Greedy Heaviest Observed Subtree(GHOST)](http://www.cs.huji.ac.il/~avivz/pubs/13/btc_scalability_full.pdf) : 以太坊使用的GHOST协议，使用tree来存储交易数据
-* [IOTA](http://iotatoken.com/): [介绍](http://cointelegraph.com/news/iota-a-blockchain-less-gasp-token-for-the-internet-of-things), 面向IOT物联网，支持微支付，抗量子计算机，使用DAG（也叫Tangle）数据结构来组织区块，Tangle-blockchain[白皮书](http://188.138.57.93/tangle.pdf)
+* [IOTA](http://iotatoken.com/): [介绍](http://cointelegraph.com/news/iota-a-blockchain-less-gasp-token-for-the-internet-of-things), 面向IOT物联网，支持微支付，抗量子计算机，使用DAG（也叫Tangle）数据结构来组织区块，Tangle-blockchain[白皮书](docs/tangle.pdf)
 * [Emercoin](https://github.com/EvgenijM86/emercoin/): 采用STUN协议来实现P2P网络，可以与webrtc兼容 。 [代码](https://github.com/EvgenijM86/emercoin/), POW + POS , fork from [ppcoin](https://github.com/ppcoin/ppcoin)
 * [openchain](https://www.openchain.org/) : client-server架构的chain，ibm贡献的代码，c#开发，适合企业内部使用
 * [GitTorrent](https://github.com/conseweb/GitTorrent): 一个使用bittorrent + bitcoin构建的去中心化的github. [Blog](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
@@ -43,11 +43,11 @@
 * [A simple Distributed Hash Table (DHT)](https://rezahok.wordpress.com/2009/09/21/a-simple-distributed-hash-table-dht/)
 * [Tempering Kademlia with a Robust Identity Based System](http://www.lajello.com/papers/p2p08.pdf)
 * [TrustedKad – Application of Trust MechanismstoaKademlia-BasedPeer-to-Peer Network](https://duepublico.uni-duisburg-essen.de/servlets/DerivateServlet/Derivate-37616/Dissertation_Kohnen.pdf)
-* [S/Kademlia: A Practicable Approach Towards Secure Key-Based Routing](http://www.tm.uka.de/doc/SKademlia_2007.pdf): 基于加密学生成随机的nodeid以保证系统免受攻击
+* [S/Kademlia: A Practicable Approach Towards Secure Key-Based Routing](docs/SKademlia_2007.pdf): 基于加密学生成随机的nodeid以保证系统免受攻击
 * [Kademlia](https://zh.wikipedia.org/wiki/Kademlia)
-* [DemocratizingcontentpublicationwithCoral](https://www.coralcdn.org/docs/coral-nsdi04.pdf)
+* [Democratizing content publication with Coral](https://www.coralcdn.org/docs/coral-nsdi04.pdf)
 * [Decentralized Reddit using a DHT to store content and a blockchain to rank it](https://news.ycombinator.com/item?id=10391996) : Many other ideas about blockchains. 
-* [PolderCast: Fast, Robust, and ScalableArchitecture for P2P Topic-based Pub/Sub](http://acropolis.cs.vu.nl/~spyros/www/papers/PolderCast.pdf)
+* [PolderCast: Fast, Robust, and Scalable Architecture for P2P Topic-based Pub/Sub](http://acropolis.cs.vu.nl/~spyros/www/papers/PolderCast.pdf)
 * [Bitcoin-NG: A Scalable Blockchain Protocol](http://arxiv.org/pdf/1510.02037.pdf)
 * [Bitcoin-NG 可扩展的区块链协议](http://www.8btc.com/bitcoin-ng-2)
 * [LINKABLE RING SIGNATURES OVER ELLIPTIC CURVES](https://jesper.borgstrup.dk/2014/04/linkable-ring-signatures-over-elliptic-curves/)
@@ -58,9 +58,26 @@
 * [BitGit](http://luke.dashjr.org/programs/bitcoin/) ： 相关开源项目的汇集
 * [Secret Sharing and Erasure Coding: A Guide for the Aspiring Dropbox DecentralizerIntroduction](https://blog.ethereum.org/2014/08/16/secret-sharing-erasure-coding-guide-aspiring-dropbox-decentralizer/)
 * [Ultimate blockchain compression w/ trust-free lite nodes](https://bitcointalk.org/index.php?topic=88208.0)
-* [Python implementation of Linkable Ring Signatures over Elliptic curves](https://gist.github.com/xbee/8a37bcfd80ef727cc3f0)
+* 	[Python implementation of Linkable Ring Signatures over Elliptic curves](https://gist.github.com/xbee/8a37bcfd80ef727cc3f0)
+* 	[Security of the MaidSafe Vault Network](docs/security_of_the_maidsafe_vault_network.pdf)
+* 	[MaidSafe’s consensus mechanism](https://forum.safenetwork.io/t/vitalik-buterin-on-maidsafes-consensus-mechanism/3542)
+*	[Digital Assets on Public Blockchains](docs/bitfury-digital_assets_on_public_blockchains-1.pdf)
+*	[Proof of Stake versus Proof of Work](docs/pos-vs-pow-1.0.2.pdf)
+*	[Incentive Mechanismsfor Securing the Bitcoin Blockchain](docs/bitfury-incentive_mechanisms_for_securing_the_bitcoin_blockchain-1.pdf)
+*	[Public versus Private BlockchainsPart 1: Permissioned Blockchains](docs/public-vs-private-pt1-1.pdf)
+*	[Public versus Private BlockchainsPart 2: Permissionless Blockchains](docs/public-vs-private-pt2-1.pdf)
+*	[Mathematical Formalismfor Voting Process in Bitcoin](docs/voting-1.pdf)
+*	[Smart Contracts on Bitcoin Blockchain](docs/contracts-1.1.1.pdf)
+*	[Alternatives for Proof of Work, Part 1: Proof Of Stake](https://bytecoin.org/blog/proof-of-stake-proof-of-work-comparison/)
+*	[Alternatives for Proof of Work, Part 2: Proof of Activity, Proof of Burn, Proof of Capacity, and Byzantine Generals](https://bytecoin.org/blog/proof-of-activity-proof-of-burn-proof-of-capacity/)
+* 	[Secure and Efficient Proof of Storage with Deduplication](docs/Secure_and_Efficient_Proof_of_Storage_with_Deduplication.pdf)
+*	[Proofs of Storage from Homomorphic Identi cation Protocols](docs/Proofs_of_Storage_from_homomorphic_identification_Protocols.pdf)
+*	[Publicly-verifiable proof of storage:a modular construction](docs/Publicly-verifiable_proof_of_storage.pdf)
+*	[Anonymous Byzantine Consensus fromModerately-Hard Puzzles: A Model for Bitcoin](docs/Anonmous_Byzantine_Consensus_from_Moderately_Hard_Pullzzles.pdf)
+
 
 ## 比特币、区块链相关可参考的项目
+
 * [比特币协议说明](https://zh-cn.bitcoin.it/wiki/%E5%8D%8F%E8%AE%AE%E8%AF%B4%E6%98%8E)
 * [A(nother) Bittorrent client written in the go programming language
 ](https://github.com/jackpal/Taipei-Torrent)
@@ -104,14 +121,43 @@
 * [Lisk](https://lisk.io/): [github](https://github.com/LiskHQ/lisk), Lisk decentralized application platform and crypto-currency
 * [Boolberry](http://boolberry.org/): 更强隐私性
 * [Pebblecoin (XPB) - FIRST DPOS CRYPTONOTE COIN](https://bitcointalk.org/index.php?topic=909624.0): [github](https://github.com/xpbcreator/pebblecoin/)
+* [Sia - Decentralized Storage](https://bitcointalk.org/index.php?topic=1060294.0): [white paper](docs/sia.pdf), [github](https://github.com/NebulousLabs/Sia); [Website](http://sia.tech/)
+* [Tendermint](http://tendermint.com/): Blockchain app development simplified – focus on business logic & we’ll handle the rest. [github](https://github.com/tendermint/tendermint); [Tendermint consensus protocol](https://bitcointalk.org/index.php?topic=866460.0); [white paper](docs/tendermint.pdf)
+* [Tendermint TMSP](https://github.com/tendermint/tmsp): Tendermint socket protocol for blockchain applications
+* [Bitfury](http://bitfury.com/)
+
 
 # 算法、理论
 
+## 密码学
+* [Homomorphic secret sharing](https://en.wikipedia.org/wiki/Homomorphic_secret_sharing)
+
+## 共识算法
+* [比特币百晓生：三种POS机制及其政治信仰](http://www.wanbizu.com/xinbi/20140708540.html)
+* [黑币最新动态：白皮书之黑币POS协议2.0版](http://www.wanbizu.com/xinbi/201408041253.html)
+
+## 账本结构
+* [Tree Chains](https://github.com/petertodd/tree-chains-paper): [web](http://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/msg04388.html)
+* [Quadtree](https://en.wikipedia.org/wiki/Quadtree): Buckettree, Q-tree
+
+## LMAX
+* [LMAX](http://martinfowler.com/articles/lmax.html)
+* [LMAX中文](http://www.jdon.com/42452)
+
 ## Consensus Algorithm
+### Raft
 * [Raft](https://raft.github.io/)
 * [RaftScope](https://github.com/ongardie/raftscope)
 * [分布式系统的Raft算法](http://www.jdon.com/artichect/raft.html)
 * [Raft一致性算法](http://blog.csdn.net/cszhouwei/article/details/38374603)
+* [Raft算法的学习与理解](http://bingotree.cn/?p=611)
+
+### Paxos
+* [PaxosLease算法实现——用于Paxos自身选主](http://bingotree.cn/?p=604)
+* [PAXOS算法理解](http://bingotree.cn/?p=595)
+* [Paxos选举多次决议的算法实现](http://bingotree.cn/?p=607)
+* [PAXOS的初次学习](http://bingotree.cn/?p=588)
+* [对Raft与Paxos的关系的理解](http://bingotree.cn/?p=614)
 
 ## 随机数生成
 * [Shamir's Secret Sharing Scheme](http://point-at-infinity.org/ssss/)
@@ -126,9 +172,10 @@
 * [比特币网络中第一笔零知识证明交易发送成功](http://blockchain.hk/zero-knowledge-contingent-payments-announcement/)
 
 
-## LevelDB
+## LevelDB & RocksDB
 * [LevelDB性能分析和表现](http://database.51cto.com/art/201106/267852.htm)
 * [What are the keys used in the blockchain levelDB (ie what are the key:value pairs)?](http://bitcoin.stackexchange.com/questions/28168/what-are-the-keys-used-in-the-blockchain-leveldb-ie-what-are-the-keyvalue-pair)
+* [Benchmarking LevelDB vs. RocksDB vs. HyperLevelDB vs. LMDB Performance for InfluxDB](https://influxdata.com/blog/benchmarking-leveldb-vs-rocksdb-vs-hyperleveldb-vs-lmdb-performance-for-influxdb/)
 
 ## Trie
 * [Understanding the ethereum trie](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/)
