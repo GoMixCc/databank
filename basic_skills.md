@@ -6,7 +6,7 @@
 * 基础数据结构和算法
 * p2p网络技术
 * 加密、解密，数字签名算法
-* 共识算法
+* 共识算法 PoW PoS DPoS
 * 客户端技术，API接口，UI & UX
 * 数学
 * 经济学
@@ -18,8 +18,8 @@
 * c/c++: bitcoin的开发语言，至少得能看懂c++代码
 * python: 快速原型开发，可以适应于各种场合
 * javascript/nodejs
-* java: android 
-* objective c/swift: ios/mac 
+* java: android
+* objective c/swift: ios/mac
 
 ## 沟通语言
 * 英语
@@ -52,7 +52,7 @@
 * 拜占庭将军问题
 * 分布式架构设计模式(POSA1/POSA2/POSA3/POSA4) - 可选
 * POW/POS/DPOS
-* 
+*
 
 ## 客户端技术
 * json, protobuf, etc.
@@ -67,7 +67,11 @@
 
 ## 经济学
 * 通货膨胀产生的原因，现象
+*
+
+## 流行区块链实现
+* 比特币
+* 以太坊
+* IBM Hyperledger
+* Intelledger
 * 
-
-
-

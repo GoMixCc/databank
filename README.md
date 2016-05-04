@@ -3,7 +3,7 @@
 
 ## 索引
 * [angaroa: a Byzantine Fault Tolerant Raft](docs/copeland_zhong.pdf): Hyperledger的原型Juno的共识算法Angaroa的白皮书
-* [Angaroa的实现 repo](https://github.com/chrisnc/tangaroa) 
+* [Angaroa的实现 repo](https://github.com/chrisnc/tangaroa)
 * [Juno repo](https://github.com/blockchain-university/juno) : Hyperledger的原型Juno
 * [BigchainDB: A Scalable Blockchain Database(DRAFT)](docs/bigchaindb-whitepaper.pdf)
 * [Rootstock white paper](docs/RootstockWhitePaperv8-Overview.pdf)
@@ -15,7 +15,7 @@
 * [Understanding Serenity, Part I: Abstraction](https://blog.ethereum.org/2015/12/24/understanding-serenity-part-i-abstraction/): [中文翻译](http://ethfans.org/posts/understanding-serenity-part-i-abstraction)
 * [Understanding Serenity, Part 2: Casper](https://blog.ethereum.org/2015/12/28/understanding-serenity-part-2-casper/): [中文翻译](http://ethfans.org/posts/understanding-serenity-part-ii-casper)
 * [隔离见证技术 - set wit: segregated witness](http://www.8btc.com/segregated-witness-is-cool)
-* [IBLTs: 可逆式布鲁姆查找表(IBLT) , 如何促进比特币的去中心化](http://www.8btc.com/iblts-bitcoin-decentralization), 弱区块（weak blocks），瘦区块（thin blocks），一个“blocktorrent”协议; Invertible Bloom Lookup Table. 
+* [IBLTs: 可逆式布鲁姆查找表(IBLT) , 如何促进比特币的去中心化](http://www.8btc.com/iblts-bitcoin-decentralization), 弱区块（weak blocks），瘦区块（thin blocks），一个“blocktorrent”协议; Invertible Bloom Lookup Table.
 * Matt Corallo的快中继网络（fast relay network）
 * [Bitcoin NG](http://www.8btc.com/bitcoin-ng-2)
 * [TaPOS](http://www.bts.hk/tapos-baipishu.html)
@@ -26,7 +26,7 @@
 * [MultiChain](http://www.multichain.com/): Open platform for building blockchains, It is a [DIY permissioned blockchain](http://bitcoinist.net/multichain-diy-permissioned-blockchain/). [Withe paper](http://www.multichain.com/white-paper/)
 * [LightningNetwork](https://github.com/LightningNetwork/lnd): [Paper](https://github.com/LightningNetwork/paper)
 * [BlackCoin](http://blackcoin.co/): POS2.0, 3.0, [CodeBase](https://github.com/rat4/blackcoin)
-* [BlackHalo](http://blackhalo.info/) : Smart Contract, The first of its kind to support two-party contracts, Joint Accounts & More! 
+* [BlackHalo](http://blackhalo.info/) : Smart Contract, The first of its kind to support two-party contracts, Joint Accounts & More!
 * [Greedy Heaviest Observed Subtree(GHOST)](http://www.cs.huji.ac.il/~avivz/pubs/13/btc_scalability_full.pdf) : 以太坊使用的GHOST协议，使用tree来存储交易数据
 * [IOTA](http://iotatoken.com/): [介绍](http://cointelegraph.com/news/iota-a-blockchain-less-gasp-token-for-the-internet-of-things), 面向IOT物联网，支持微支付，抗量子计算机，使用DAG（也叫Tangle）数据结构来组织区块，Tangle-blockchain[白皮书](docs/tangle.pdf)
 * [Emercoin](https://github.com/EvgenijM86/emercoin/): 采用STUN协议来实现P2P网络，可以与webrtc兼容 。 [代码](https://github.com/EvgenijM86/emercoin/), POW + POS , fork from [ppcoin](https://github.com/ppcoin/ppcoin)
@@ -46,7 +46,7 @@
 * [S/Kademlia: A Practicable Approach Towards Secure Key-Based Routing](docs/SKademlia_2007.pdf): 基于加密学生成随机的nodeid以保证系统免受攻击
 * [Kademlia](https://zh.wikipedia.org/wiki/Kademlia)
 * [Democratizing content publication with Coral](https://www.coralcdn.org/docs/coral-nsdi04.pdf)
-* [Decentralized Reddit using a DHT to store content and a blockchain to rank it](https://news.ycombinator.com/item?id=10391996) : Many other ideas about blockchains. 
+* [Decentralized Reddit using a DHT to store content and a blockchain to rank it](https://news.ycombinator.com/item?id=10391996) : Many other ideas about blockchains.
 * [PolderCast: Fast, Robust, and Scalable Architecture for P2P Topic-based Pub/Sub](http://acropolis.cs.vu.nl/~spyros/www/papers/PolderCast.pdf)
 * [Bitcoin-NG: A Scalable Blockchain Protocol](http://arxiv.org/pdf/1510.02037.pdf)
 * [Bitcoin-NG 可扩展的区块链协议](http://www.8btc.com/bitcoin-ng-2)
@@ -108,7 +108,7 @@
 * [Telehash](http://telehash.org/) : [source](https://github.com/telehash)
 * [BlockName](https://github.com/telehash/blockname): A blockchain-backed DNS resolver
 * [How to create genesis block](https://github.com/lhartikk/GenesisH0)
-* [Factom](https://github.com/FactomProject/FactomCode): 
+* [Factom](https://github.com/FactomProject/FactomCode):
 * [BitShares](https://bitshares.org/): BitShares is an industrial-grade financial blockchain smart contracts platform.
 * [Blockstream](https://blockstream.com/): 侧链创业公司。 Blockstream’s core area of innovation is sidechains, a technology focused on improving on the blockchain, the most powerful public utility for distributed trust systems.
 * [openpublish: A publishing protocol for registering media as a digital asset on the Bitcoin blockchain.](https://github.com/blockai/openpublish): 数字内容、数字资产注册、发布平台，产权可以方便转移，交换，而且可以很准确的统计阅读数
@@ -125,6 +125,13 @@
 * [Tendermint](http://tendermint.com/): Blockchain app development simplified – focus on business logic & we’ll handle the rest. [github](https://github.com/tendermint/tendermint); [Tendermint consensus protocol](https://bitcointalk.org/index.php?topic=866460.0); [white paper](docs/tendermint.pdf)
 * [Tendermint TMSP](https://github.com/tendermint/tmsp): Tendermint socket protocol for blockchain applications
 * [Bitfury](http://bitfury.com/)
+*	[libbitcoin](https://github.com/libbitcoin)
+* [Enigma](http://enigma.mit.edu/): Enigma is a decentralized cloud platform with guaranteed privacy. Private data is stored, shared and analyzed without ever being fully revealed to any party. [Whitepaper](docs/enigma_full.pdf)
+*	[Keyhotee](https://github.com/InvictusInnovations/keyhotee): Decentralized ID and Communication
+*	[ZeroNet](https://zeronet.io/): Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network. [github](https://github.com/HelloZeroNet/ZeroNet)
+*	[zerocash](http://zerocash-project.org/index): Zerocash is a protocol that provides a decentralized crypto-currency in which, as in Bitcoin, users collaborate to maintain the currency by broadcasting and verifying payment transactions. Zerocash, however, differs from Bitcoin in how these payment transactions are assembled and then verified. 更具有隐私保护的币。
+*	[bitstarter-leaderboard](https://github.com/startup-class/bitstarter-leaderboard): A more sophisticated Bitcoin-powered crowdfunder.
+*	[untitled-dice.github.io](https://github.com/untitled-dice/untitled-dice.github.io): a basic bitcoin dice site
 
 
 # 算法、理论
@@ -139,10 +146,17 @@
 ## 账本结构
 * [Tree Chains](https://github.com/petertodd/tree-chains-paper): [web](http://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/msg04388.html)
 * [Quadtree](https://en.wikipedia.org/wiki/Quadtree): Buckettree, Q-tree
+* [LLRB](https://en.wikipedia.org/wiki/Left-leaning_red%E2%80%93black_tree) - Left-leaning red–black tree
 
 ## LMAX
-* [LMAX](http://martinfowler.com/articles/lmax.html)
+* [LMAX](http://martinfowler.com/articles/lmax.html): [github](https://lmax-exchange.github.io/disruptor/)
 * [LMAX中文](http://www.jdon.com/42452)
+*	[disruptor](https://github.com/LMAX-Exchange/disruptor): High Performance Inter-Thread Messaging Library. LMAX的java实现.
+*	[go-disruptor](https://github.com/smartystreets/go-disruptor)
+*	[ring-buffer](http://zhen.org/blog/ring-buffer-variable-length-low-latency-disruptor-style/): Ring Buffer - Variable-Length, Low-Latency, Lock-Free, Disruptor-Style, [code](https://github.com/zhenjl/ringbuffer)
+
+## Decentralized ID 
+* [Identity protocol v1](https://en.bitcoin.it/wiki/Identity_protocol_v1)
 
 ## Consensus Algorithm
 ### Raft
