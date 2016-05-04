@@ -929,6 +929,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 * [render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, and HTML template responses.
 * [stats](https://github.com/thoas/stats) - A Go middleware that stores various information about your web application.
+* [water](https://github.com/songgao/water) - A simple TUN/TAP library written in native Go (golang).
 
 # Tools
 
@@ -996,7 +997,7 @@ Software written in Go.
 * [Packer](https://github.com/mitchellh/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 * [Rodent](https://github.com/alouche/rodent) - Rodent helps you manage Go versions, projects and track dependencies.
 * [s3gof3r](https://github.com/rlmcpherson/s3gof3r) - A small utility/library optimized for high speed transfer of large objects into and out of Amazon S3.
-* [Vegeta] (https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+* [Vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 * [webhook](https://github.com/adnanh/webhook) - Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server
 * [Wide](https://wide.b3log.org) - A Web-based IDE for Teams using Golang.
 
@@ -1031,6 +1032,7 @@ Software written in Go.
 * [tsuru](http://www.tsuru.io/) - An extensible and open source Platform as a Service software.
 * [websysd](https://github.com/ian-kent/websysd) - Web based process manager (like Marathon or Upstart)
 * [wellington](https://github.com/wellington/wellington) - Sass project management tool, extends the language with sprite functions (like Compass)
+* [gohop](https://github.com/bigeagle/gohop) - A VPN implemention in golang, with crypto and obfuscation in nature.
 
 
 

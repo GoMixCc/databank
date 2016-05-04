@@ -1,6 +1,6 @@
 Peer-to-Peer
 ===
-> A list of peer-to-peer resources. 
+> A list of peer-to-peer resources.
 
 
 ## Modules
@@ -162,12 +162,12 @@ Peer-to-Peer
 *	[rfc5766-turn-server](https://github.com/coturn/rfc5766-turn-server/)
 *	[coturn](https://github.com/coturn/coturn): next evolution of the rfc5766-turn-server project
 *	[peerjs](https://github.com/peers/peerjs): simple peer-to-peer with WebRTC
-*	[go-peerstream](https://github.com/jbenet/go-peerstream): P2P multi-multiplexing in Go
 *	[ipfs](https://github.com/ipfs/ipfs): distributed file system
 *	[ipfs specs](https://github.com/ipfs/specs): specs for IPFS
 *	[ipget](https://github.com/noffle/ipget): wget for IPFS
 *	[btfs](https://github.com/johang/btfs): bittorrent filesystem based on FUSE (C++)
 *	[swarmbot](https://github.com/substack/swarmbot): mirroring for a p2p mesh of swarmlogs
+* [go-peerstream](https://github.com/jbenet/go-peerstream): p2p stream multi-multiplexing in Go (with https://github.com/docker/spdystream)
 
 
 
@@ -180,6 +180,7 @@ Peer-to-Peer
 *	[ipfsbin](https://github.com/VictorBjelkholm/ipfsbin): Run IPFS snippets
 * 	[patchwork](https://github.com/ssbc/patchwork): p2p secure messaging
 *	[webtorrent-app](https://github.com/feross/webtorrent-app): WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
+*
 
 
 ## Experiments
